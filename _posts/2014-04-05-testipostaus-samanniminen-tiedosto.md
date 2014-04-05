@@ -2,8 +2,8 @@
 published: true
 ---
 
-## A New Post
+## Mitä tapahtuu, jos lähetän tiedoston, joka on jo olemassa
 
-Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the toolbar above, or click the **?** button for formatting help.
+Olemassaoleva tiedosto korvautuu uudella, joten kannattaa olla tarkkana!
 
 ![jee.jpg](/assets/jee.jpg)
